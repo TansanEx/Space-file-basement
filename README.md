@@ -8,6 +8,16 @@ A student majoring in **engineering**. But I do think what I really love is
 
 **coding**, and that's what I am trying my best to.
 
+## Interest Rright Now
+
+* Embedded System(Based on ARM)
+
+* C language
+
+* Git
+
+* Command line
+
 ## What for
 
 * I am learning coding from the very begin and I find I always forget some important concepts and commit some simple mistakes when coding.
